@@ -115,3 +115,5 @@ github-commit-notifier/
 - Store events in a small SQLite log for history
 - Add signature verification using GitHub's webhook secret for security
 - Extend to handle `issues` or `release` events
+
+Tested webhook ✅
